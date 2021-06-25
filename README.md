@@ -4,6 +4,6 @@ Just import the file in the style editor from the web developer menu, In firefox
 
 ## Screen shots 
 
-![image] (https://github.com/abhishrijoshi/Srm-elab-black-theme/blob/v0.1/index.jpg?raw=true)
-![image] (https://github.com/abhishrijoshi/Srm-elab-black-theme/blob/v0.1/3.jpg?raw=true)
-![image] (https://github.com/abhishrijoshi/Srm-elab-black-theme/blob/v0.1/2.jpg?raw=true)
+![image](https://github.com/abhishrijoshi/Srm-elab-black-theme/blob/v0.1/index.jpg?raw=true)
+![image](https://github.com/abhishrijoshi/Srm-elab-black-theme/blob/v0.1/3.jpg?raw=true)
+![image](https://github.com/abhishrijoshi/Srm-elab-black-theme/blob/v0.1/2.jpg?raw=true)
